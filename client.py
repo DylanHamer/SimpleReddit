@@ -8,10 +8,8 @@ import praw  # Reddit API
 import pyfiglet  # Optional subreddit headers
 
 """OAuth credentials: Remove these before commiting to source control"""
-#id = "bl_3aEPx20KMOw"
-#secret = "tmVzWv5OXSuY3Laj66vfHA0UN8w"
-id = "Lzf9MWt6VKQbGg"
-secret = "UaEoRGae6DWmoBz7uUhp4CSeTxY"
+id = ""
+secret = ""
 agent = "SimpleReddit (by /u/dylanhamer13)"
 
 class simpleReddit:
